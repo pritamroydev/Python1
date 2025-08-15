@@ -1,0 +1,48 @@
+Mean | Median | Mode:
+
+Queston1: 10, 20, 20, 30, 40
+
+Mean: (the average of a set of numbers)
+
+    add = 10 + 20  + 20 + 30 + 40 = 120
+    count = 5
+    mean = 120 / 5 = 24
+
+
+Median: (the middle value in a arranged set of numbers)
+
+    median = 20
+
+
+Mode: (the value that appears most frequently in a data set)
+
+    mode = 20
+
+
+------------------------------------------------------------
+
+
+# actual value y_true = what really happened
+
+# preicted value y_pred = what our moel thinks will happen
+
+
+------------------------------------------------------------
+
+
+Percentage | Ratio:
+
+q1: 60 runs, 100 balls
+    
+    so, 60:100 Ratio
+    60% strike rate
+
+
+
+note:   Some later used thinks in ML usnig percentage & ratio
+
+        Accuracy = (Corrected predictions / Total predictions) * 100
+        Precision = (True positives / Total predictive positives)
+        Recall = (True Positives / Total actual Positives)
+
+        

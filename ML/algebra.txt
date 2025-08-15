@@ -1,0 +1,47 @@
+500 daliy income
+1000 joining bonus (fixed for everyone)
+
+0 - 1000
+1 - 1500
+2 - 2000
+3 - 2500
+
+
+y = mx + b
+
+y = final salary predicted, output/result
+x = days worked, input
+m = 500/day, rate of change
+b = 1000 bonus, starting point x=0
+
+y = 500 * x + 1000
+
+therefore,  4 days
+            y = 500 * 4 + 1000
+            y = 3000
+
+
+
+
+------------------------------------------------------------
+
+
+Vectors:
+
+height = 170cm; weight = 65 kg
+[170, 65]
+
+------------------------------------------------------------
+
+
+Standard Deviation: (to measure how much the data is spread out)
+
+low sd = close
+high sd = far
+
+class A 
+60, 62, 61, 59, 60 => low sd
+
+class B 
+30, 50, 59, 85, 90 => high sd
+

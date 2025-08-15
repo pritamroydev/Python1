@@ -1,0 +1,15 @@
+"r",    "Read mode - Opens a file for reading only.",           
+
+"w",    "Write mode - Opens a file for writing. If the file exists, it is overwritten.",               
+
+"a",    "Append mode - Opens a file for writing, but data is added at the end.",                        
+
+"x",    "Exclusive creation mode - Creates a file but fails if it already exists.",     
+
+"r+",   "Read & Write mode - Opens a file for both reading and writing.",         
+
+"w+",   "Write & Read mode - Opens a file for both reading and writing, but it overwrites if the file exists.",
+
+"a+",   "Append & Read mode - Opens a file for reading and appending, preserving existing data.",
+
+"x+",   "Exclusive creation mode with read and write - Creates a new file but fails if it exists.",

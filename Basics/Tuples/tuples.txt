@@ -1,0 +1,12 @@
+1- immutable
+2- heterogeneous
+3- similar to list[]; tuples use ()
+
+
+methods that can be used:
+
+len()
+min max()
+count()
+index()
+sorted()

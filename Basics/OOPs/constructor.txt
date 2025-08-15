@@ -1,0 +1,11 @@
+Syntax:
+__init__() : Constructor
+self.property: it stores the values inside the object
+
+
+
+1- default cinstructor (self)
+
+2- parameterized constructor (self, name, age)
+
+3- constructor with default values (self, name=unknown, age=unknown)

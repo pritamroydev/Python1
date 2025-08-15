@@ -1,0 +1,66 @@
+what is Pandas?
+
+- Pandas is a powerful and popular Python library, developed by Wes Mckinney, designed for DATA MANUPULATION(cleaning, transforming, and structuring data) and analysis(finding patterns, trends and insights).
+
+- It simplifies working with structured databases like tables, spreadsheets or time-series data
+
+
+---------------------------------------
+
+
+what makes Pandas unique?
+
+- works seamlessly with structured data formats like CSV and Excel
+- handles missing values easily
+- built on NumPy for fast computations
+
+
+------------------------------------------
+
+
+why use Pandas?
+
+- Performance: Handles millions of rows easily
+- Easy to use: Begineer-friendly syntax for cleaning and transforming data
+- Integration: Works with libraries like Matplotlib(vizualization), Scikit-Learn
+(ML)
+
+
+------------------------------------------------
+
+
+how to use Pandas?
+
+Install Pandas:
+
+using pip(Python Installer Packages):
+pip install pandas
+
+
+
+Import Pandas:
+
+import pandas as pd 
+
+
+-----------------------------------------------
+
+
+Key Concepts:
+
+
+Series: 
+
+- It is a 1-D labelled array that can hold any data type: integer, floats, strings, or even Python Objects. Each element in the Series has a unique label called an index.
+
+- often used to track changes or patterns over time, such as daily temperatures, stock prices or sales revenue.
+
+
+Dataframe:
+
+- It is a 2-D labelled data structure in Pandas, similar to tables in a database, an Excel spreadsheet, or a SQL table.
+
+- It consists of row & column, where:
+    a. Rows have indices(labels)
+    b. Columns have names(labels)
+

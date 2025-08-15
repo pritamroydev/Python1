@@ -1,0 +1,34 @@
+what are errors?
+- these are those problems which stop our program to run smoothly
+
+
+1- compile-time error
+2- runtime error
+3- logical error
+
+
+errors in software - "bugs"
+fixing those bugs in software - "debugging"
+
+
+
+
+exception ->
+1- start running
+2- warning sign
+3- catch and handle, program crash
+
+
+exception handling?
+
+using "try-except" block
+
+
+finally block->
+it executes no matter what
+
+
+
+
+nested try-except block->
+similar to nested loops

@@ -1,0 +1,8 @@
+adds extra functions within a function without changing the main function code
+
+main function > extra function
+
+analogy: 
+burger - function
+extra cheese - extra feature
+

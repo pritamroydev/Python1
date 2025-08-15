@@ -1,0 +1,5 @@
+why do we need to explore data?
+
+1- to understand the dataset
+2- identify the problem
+3- plan next steps

@@ -1,0 +1,18 @@
+
+1- select specific Column
+    - using square brackets
+    - returns   1- a series (if one column is selected)
+                2- a dataframe (if multiple columns are selected)
+    - syntax:
+                column = df["Column Name]                               # for 1 column
+                subset = df[["Column1", "Column2", "Column3", ....]]      # for multiple column
+
+2- filter rows
+    - using boolean conditions (using boolean indexing)
+    - syntax:
+                filtered_Rows = df[df["Salary"] > 50000]                # for single condition
+                filtered_Rows = df[(df["Salary"] > 50000) & (df["Column2"] < 80000)]
+
+
+3- combine multiple rows
+    -
