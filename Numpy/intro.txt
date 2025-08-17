@@ -1,0 +1,42 @@
+1- speed: 50-100 times faster than normal python lists
+
+2- uses less memory
+
+3- easy math operations
+
+4- used in Data-Science, AI, Data-Analysis, ML, stockmarket/ finance, Medical Research, Image Processing, 
+
+
+
+                                    **Lists vs NumPy Array**
+
+Speed:
+
+List: slower
+
+NumPy Array: 50-100 times faster
+
+-----------------------------------------------
+
+Memory usage:
+
+List: uses more
+
+NumPy Array: less
+
+-----------------------------------------------
+
+Calculations:
+
+List: Need loops
+
+NumPy Array: Calculations
+
+-----------------------------------------------
+
+Best for:
+
+List: Small datasets
+
+NumPy Arrays: Large datasets
+

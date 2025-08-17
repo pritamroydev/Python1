@@ -1,0 +1,4 @@
+
+array can be used in python using the NumPy library
+
+syntax: numpy.array(arrayData)  ->  returns an array, not a list

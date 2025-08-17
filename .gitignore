@@ -1,3 +1,4 @@
-bozonPandas/
+.bozonPandas/
 __pycache__/
 *.pyc
+bozonNumpy/
