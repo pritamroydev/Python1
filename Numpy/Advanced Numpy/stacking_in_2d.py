@@ -1,0 +1,13 @@
+"""
+np.vstack() -> stacks vertically
+np.hstack() -> stacks horizontally
+
+"""
+
+import numpy as np
+
+arr1 = np.array([[1,2,3,4], [0,0,0,0]])
+arr2 = np.array([[5,6,7,8], [9,9,9,9]])
+
+print(np.vstack((arr1, arr2)),"\n")
+print(np.hstack((arr1, arr2)))
