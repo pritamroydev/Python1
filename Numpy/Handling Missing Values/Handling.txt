@@ -1,0 +1,6 @@
+Built in functions in numpy
+
+- np.isnan --> detects missing values
+- np.nan_to_num () --> to replace the NaN values with some other values
+- np.isinf () --> used to detect the infinite values
+
