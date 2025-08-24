@@ -1,0 +1,4 @@
+Vectorization is used to perform an operation on an entire array.
+
+- it is 100 times faster than loops
+- used on matirx operations
