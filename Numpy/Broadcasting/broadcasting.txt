@@ -1,0 +1,19 @@
+Broadcasting is a way of doing various operations on arrays using numpy, and without using loops(as it becomes slow)
+
+- can be used on any size of arrays (small, mid, large)
+- more faster than loops
+- more easier than loops
+
+
+How numpy handles arrays of different shapes ?
+
+- matching dimentions           -->    - [1,2,3] + [4,5,6] = [5,7,9]
+
+- expanding single elements     -->    - [1,2,3] + 10 = [11, 12, 13]
+                                       - [[1,2,3], [4,5,6]]  + [10,20,30] = [[11, 22, 33], [14, 25, 36]]
+
+- incompatable shapes           -->    - [1,2,3] + [1,2] = error
+
+
+                                                            
+
