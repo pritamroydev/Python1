@@ -1,4 +1,4 @@
-Broadcasting is a way of doing various operations on arrays using numpy, and without using loops(as it becomes slow)
+Broadcasting is a way of expanding smaller arrays into larger arrays using numpy, and without using loops(as it becomes slow)
 
 - can be used on any size of arrays (small, mid, large)
 - more faster than loops
